@@ -1,0 +1,28 @@
+.Title {
+    color: aquamarine;
+    font-style: oblique;
+    text-align: center;
+}
+.H1 {
+    color:aquamarine;
+    font-style: oblique;
+    text-align: center;
+}
+.p {
+    color: yellow;
+    font-style: oblique;
+    font-size: medium;
+}
+.H3 {
+    color: aquamarine;
+    font-style: oblique;
+    text-align: center;
+}
+.li {
+    color: yellow;
+    font-style: oblique;
+    font-size: medium;
+}
+.body {
+    background-color: darkgrey;
+}

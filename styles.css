@@ -1,25 +1,20 @@
-.Title {
-    color: red;
-    font-style: oblique;
-    text-align: center;
+/* .Title {
+  color: red;
+  font-style: oblique;
+  text-align: center;
+} */
+img {
+  width: 400px;
+  height: 400px;
 }
-.H1 {
-    color: red;
-    font-style: oblique;
-    text-align: center;
+
+a {
+  color: red;
+  font-style: oblique;
+  text-align: center;
+  font-size: large;
 }
-.p {
-    color: yellow;
-    font-style: oblique;
-    font-size: medium;
-}
-.H3 {
-    color: red;
-    font-style: oblique;
-    text-align: center;
-}
-.li {
-    color: yellow;
-    font-style: oblique;
-    font-size: medium;
+
+.main-header {
+  font-size: 100px;
 }

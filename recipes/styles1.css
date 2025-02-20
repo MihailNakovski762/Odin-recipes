@@ -1,28 +1,24 @@
-.Title {
-    color: aquamarine;
-    font-style: oblique;
-    text-align: center;
+/* .Title {
+  color: aquamarine;
+  font-style: oblique;
+  text-align: center;
+} */
+h1 {
+  color: aquamarine;
+  font-style: oblique;
+  text-align: center;
 }
-.H1 {
-    color:aquamarine;
-    font-style: oblique;
-    text-align: center;
+p,
+li {
+  color: yellow;
+  font-style: oblique;
+  font-size: medium;
 }
-.p {
-    color: yellow;
-    font-style: oblique;
-    font-size: medium;
+.sub-header {
+  color: aquamarine;
+  font-style: oblique;
+  text-align: center;
 }
-.H3 {
-    color: aquamarine;
-    font-style: oblique;
-    text-align: center;
-}
-.li {
-    color: yellow;
-    font-style: oblique;
-    font-size: medium;
-}
-.body {
-    background-color: darkgrey;
+body {
+  background-color: darkgrey;
 }

@@ -2,10 +2,21 @@
   color: red;
   font-style: oblique;
   text-align: center;
+  padding: 30px;
+  border color: crimson;
 } */
+ title {
+  padding: 5px;
+  border-color: crimson;
+ }
 img {
-  width: 400px;
-  height: 400px;
+  width: 200x;
+  height: 200px;
+  margin-left: 500px;
+  padding: 25px;
+  border-top: 10px;
+  border-radius: 40px;
+
 }
 
 a {
